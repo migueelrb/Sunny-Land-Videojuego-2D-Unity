@@ -4,13 +4,13 @@
 
 ## Descripción
 
-Sunny Land 2D es un videojuego de plataformas desarrollado en Unity. En este juego, los jugadores se embarcan en una aventura a través de coloridos y desafiantes niveles, recolectando objetos y evitando obstáculos para completar su misión.
+Sunny Land 2D es un emocionante juego de plataformas desarrollado en Unity. Los jugadores se sumergen en un mundo lleno de color y desafíos, donde deberán superar niveles emocionantes, recolectar objetos y evitar obstáculos para completar su misión.
 
 ## Características
 
-- **Plataformas Clásicas**: Disfruta de un juego de plataformas con mecánicas tradicionales.
-- **Gráficos Coloridos**: Gráficos en 2D vibrantes y detallados.
-- **Desarrollo en Unity**: Creado utilizando el motor de juego Unity, asegurando un rendimiento óptimo y una experiencia de usuario fluida.
+- 🎮 **Juego de Plataformas Clásico**: Disfruta de una experiencia de juego nostálgica con mecánicas tradicionales de plataformas.
+- 🌈 **Gráficos Vibrantes**: Sumérgete en un mundo visualmente impresionante con gráficos en 2D coloridos y detallados.
+- 🚀 **Desarrollado en Unity**: Creado utilizando el poderoso motor de juego Unity, garantizando un rendimiento óptimo y una experiencia de usuario fluida.
 
 ## Instalación
 
@@ -31,7 +31,7 @@ Sunny Land 2D es un videojuego de plataformas desarrollado en Unity. En este jue
 
 ## Cómo Jugar
 
-1. Usa las teclas de dirección para mover al personaje.
+1. Utiliza las teclas de dirección para mover al personaje.
 2. Salta y esquiva los obstáculos.
 3. Recolecta objetos para ganar puntos.
 4. Completa los niveles para avanzar en el juego.
@@ -46,13 +46,12 @@ Sunny Land 2D es un videojuego de plataformas desarrollado en Unity. En este jue
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Para reportar problemas o solicitar nuevas características, por favor utiliza el sistema de [issues](https://github.com/migueelrb/Videojuegos/issues).
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este juego, no dudes en abrir un [issue](https://github.com/migueelrb/Videojuegos/issues) o enviar una solicitud de extracción.
 
 ## Licencia
 
-Este proyecto está licenciado, queda prohibido su modificacion y distirbución sin previa autorización
+Este proyecto pertenece a Miguel Real, está licenciado queda prohibida su distribucción sin previo consentimiento 
 
 ---
 
-**Desarrollado por Miguel Real**
-
+**Desarrollado por Miguel Real Barrio**
